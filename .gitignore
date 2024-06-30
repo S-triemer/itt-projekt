@@ -1,0 +1,4 @@
+itt-frontend/node_modules
+itt-backend/itt-backend
+itt-backend/__pycache__
+itt-backend/ValueObjects/__pycache__
